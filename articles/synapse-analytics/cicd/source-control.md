@@ -170,7 +170,7 @@ A side pane will open where you confirm that the publish branch and pending chan
 ![Confirm the correct publish branch](media/publish-change.png)
 
 > [!IMPORTANT]
-> The collaboration branch is not representative of what's deployed in the service. The changes in collaboration branch *must* be published manually service.
+> The collaboration branch is not representative of what's deployed in the service. The changes in collaboration branch *must* be published manually to the service.
 
 ## Switch to a different Git repository
 
