@@ -126,7 +126,7 @@ If necessary, follow these steps to configure your subscription to enable Azure 
     > If the provisioning failed with `Conflict` status, that means there is an Azure policy blocking Purview from creating a **Storage account** and **EventHub namespace**. You need to go through the **Prerequisites** steps to add exceptions.
     > :::image type="content" source="./media/create-catalog-portal/purview-conflict-error.png" alt-text="Purview conflict error message":::
 
-1. Select **Launch purview account**.
+1. Select **Open Purview Studio**.
 
    :::image type="content" source="./media/use-purview-studio/launch-from-portal.png" alt-text="Screenshot of the selection to launch the Azure Purview account catalog.":::
 
